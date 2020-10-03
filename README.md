@@ -10,7 +10,7 @@
 
 # [B站 BiliBli](https://space.bilibili.com/95590648)
 # steam好友代码：358462614 欢迎加我好友
-[image](https://github.com/HJ1F12/HJ1F12.github.io/blob/master/images/steam.PNG)
+![image](https://github.com/HJ1F12/HJ1F12.github.io/blob/master/images/steam.PNG)
 # 育碧Uplay:HJ1F12 (偶尔打打R6)
 
 # 联系方式：B站私信or发邮件
