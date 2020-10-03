@@ -1,15 +1,11 @@
-## Welcome to my blgo-HJ1F12
+## Welcome to my Blgo
+##                      -HJ1F12
 
-You can use the [editor on GitHub](https://github.com/HJ1F12/HJ1F12.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+之前弄了个类似于wordpress的网站，不尽人意，最近在学习着用github搭建托管静态网站，所幸弄了个这个
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 关于我
+普通人，懒狗，宅，打打游戏，偶然翻译些视频音乐（完全随缘）
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
