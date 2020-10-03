@@ -5,32 +5,13 @@
 
 ### 关于我
 普通人，懒狗，宅，打打游戏，偶然翻译些视频音乐（完全随缘）
+喜欢交朋友，志同道合那种
 
 
 # [B站 BiliBli](https://space.bilibili.com/95590648)
+# steam好友代码：358462614 欢迎加我好友
+# 育碧Uplay:HJ1F12 (偶尔打打R6)
 
 # 联系方式：B站私信or发邮件
 ## 邮箱 HJ1F12#yeah.net （#改为@）
 （不经常看邮箱）
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HJ1F12/HJ1F12.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
