@@ -7,9 +7,12 @@
 普通人，懒狗，宅，打打游戏，偶然翻译些视频音乐（完全随缘）
 
 
-# Header 1
-## Header 2
-### Header 3
+# [B站 BiliBli](https://space.bilibili.com/95590648)
+
+# 联系方式：B站私信or发邮件
+## 邮箱 HJ1F12#yeah.net （#改为@）
+（不经常看邮箱）
+
 
 - Bulleted
 - List
