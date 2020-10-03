@@ -2,6 +2,7 @@
 
 ## Q&A
 **Q:what's your ID mean (HJ1F12)?   A:Don't ask me about this ,cuz I also don't know**
+
 Q:Why are you use both Language write this page?   A:不知道，你看不懂自己谷歌翻译
 
 之前弄了个类似于wordpress的网站，不尽人意，最近在学习着用github搭建托管静态网站，索性做了个github pages
