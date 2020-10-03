@@ -1,7 +1,7 @@
 ## Welcome to my “Blgo”（maybe...）
 
 ## Q&A
-**Q:what's your ID mean (HJ1F12)?   A:Don't ask me about this ,cuz I also don't know**
+**【MOST】Q:what's your ID mean (HJ1F12)?   A:Don't ask me about this ,cuz I also don't know**
 
 Q:Why are you use both Language write this page?   A:不知道，你看不懂自己谷歌翻译
 
