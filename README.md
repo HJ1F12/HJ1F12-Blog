@@ -21,3 +21,5 @@ Q:Why are you use both Language(EN CN) write this page?   A:不知道，你看�
 # 联系方式：B站私信or发邮件
 ## 邮箱 HJ1F12#yeah.net （#改为@）
 （不经常看邮箱）
+
+本页面最后修改于2020年10月4日凌晨3:32
