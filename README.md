@@ -1,5 +1,5 @@
-### HJ1F12
-## Welcome to my “Blgo”（maybe...）
+
+# Welcome to my “Blgo”（maybe...）
 
 ## Q&A
 **【MOST】Q:what's your ID mean (HJ1F12)?   A:Don't ask me about this ,cuz I also don't know**
