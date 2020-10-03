@@ -1,4 +1,4 @@
-### **HJ1F12**
+### HJ1F12
 ## Welcome to my “Blgo”（maybe...）
 
 ## Q&A
