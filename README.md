@@ -19,7 +19,7 @@ Q:Why are you use both Language(EN CN) write this page?   A:不知道，你看�
 # 育碧Uplay:HJ1F12 (偶尔打打R6)
 
 # 联系方式：B站私信or发邮件
-## 邮箱 HJ1F12#yeah.net （#改为@）
+## 邮箱E-mail  HJ1F12#yeah.net （#改为@）
 （不经常看邮箱）
 
-本页面最后修改于2020年10月5日00:27
+本页面最后修改于2020年10月6日2:55
