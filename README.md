@@ -2,7 +2,7 @@
 # Welcome to my “Blgo”（maybe...）
 
 ## Q&A
-***【MOST】Q:what's your ID mean `(HJ1F12)?`   A:Don't ask me about this ,cuz I also don't know***
+***【MOST】Q:what's your ID mean? `(HJ1F12)`   A:Don't ask me about this ,cuz I also don't know***
 
 **Q:Why are you use both Language(EN ZH) write this page?   A:不知道，你看不懂自己谷歌翻译**
 
@@ -22,4 +22,4 @@
 ## 邮箱：E-mail  HJ1F12#yeah.net （#改为@）
 （不经常看邮箱）
 
-本页面最后修改于2020年10月6日2:55
+本页面最后修改于2020年10月31日13:30
