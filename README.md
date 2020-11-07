@@ -8,15 +8,17 @@
 
 之前弄了个类似于wordpress的网站，不尽人意，最近在学习着用github搭建托管静态网站，索性做了个github pages
 
+
 > ### 关于我
 >> 普通人，懒狗，宅，打打游戏，网上冲浪，偶然翻译些视频音乐（完全随缘）
 >> 喜欢交朋友，志同道合那种
+
 
 > ## 最喜欢的专辑 Favorite album
 
 ![image](https://HJ1F12.ml/images/nomoonatall2.jpg)  ![image](https://HJ1F12.ml/images/m&w2.jpg)
 
-[No Moon At All](https://open.spotify.com/album/6JCwWDKSo9MrGOou51jwxy?highlight=spotify:track:0Uv9fEYpUrgJj0chtaqJdv)     [Mistletoe & Wine](https://open.spotify.com/album/6JCwWDKSo9MrGOou51jwxy?highlight=spotify:track:0Uv9fEYpUrgJj0chtaqJdv)
+#### [No Moon At All](https://open.spotify.com/album/6JCwWDKSo9MrGOou51jwxy?highlight=spotify:track:0Uv9fEYpUrgJj0chtaqJdv)                                                     [Mistletoe & Wine](https://open.spotify.com/album/6JCwWDKSo9MrGOou51jwxy?highlight=spotify:track:0Uv9fEYpUrgJj0chtaqJdv)
 
 
 # [B站 BiliBli](https://space.bilibili.com/95590648)
