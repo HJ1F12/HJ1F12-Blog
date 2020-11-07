@@ -13,7 +13,7 @@
 喜欢交朋友，志同道合那种
 
 > ## 最喜欢的专辑 Favorite album
-![image](https://HJ1F12.ml/images/nomoonatall.jpg)
+![image](https://HJ1F12.ml/images/m&w2.jpg)
 [Mistletoe & Wine](https://open.spotify.com/album/6JCwWDKSo9MrGOou51jwxy?highlight=spotify:track:0Uv9fEYpUrgJj0chtaqJdv)
 
 
