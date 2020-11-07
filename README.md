@@ -12,6 +12,10 @@
 普通人，懒狗，宅，打打游戏，网上冲浪，偶然翻译些视频音乐（完全随缘）
 喜欢交朋友，志同道合那种
 
+> ## 最喜欢的专辑 Favorite album
+![image](https://HJ1F12.ml/images/nomoonatall.jpg)
+[Mistletoe & Wine](https://open.spotify.com/album/6JCwWDKSo9MrGOou51jwxy?highlight=spotify:track:0Uv9fEYpUrgJj0chtaqJdv)
+
 
 # [B站 BiliBli](https://space.bilibili.com/95590648)
 # steam好友代码：358462614 欢迎加我好友
