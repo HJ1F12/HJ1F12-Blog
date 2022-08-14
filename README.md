@@ -17,13 +17,12 @@
 
 ## 最喜欢的专辑 Favorite album
 
-![image](https://HJ1F12.ml/images/nomoonatall2.jpg)  ![image](https://HJ1F12.ml/images/m&w2.jpg)  ![image](https://HJ1F12.ml/images/fnv.jpg)
-
+![image](https://github.com/HJ1F12/HJ1F12-Blog/blob/master/images/nomoonatall2.jpg)  ![image](https://github.com/HJ1F12/HJ1F12-Blog/blob/master/images/m%26w2.jpg)  ![image](https://github.com/HJ1F12/HJ1F12-Blog/blob/master/images/fnv.jpg)
 ## [《No Moon At All》](https://open.spotify.com/album/66mDcQkdH436Zo6CWIjfMM)—[《Mistletoe & Wine》](https://open.spotify.com/album/6JCwWDKSo9MrGOou51jwxy)—[《Forever Neverland》](https://open.spotify.com/album/52c2O1mvqnfAVjX9QNC5yd)
 
 
 # steam好友代码：358462614 欢迎加我好友
-![image](https://HJ1F12.ml/images/steam.PNG)
+![image](https://github.com/HJ1F12/HJ1F12-Blog/blob/master/images/steam2.PNG)
 # 育碧Uplay:HJ1F12 (偶尔打打R6)
 
 # [B站 BiliBli](https://space.bilibili.com/95590648)
@@ -31,4 +30,4 @@
 ## 邮箱：E-mail  HJ1F12#yeah.net （#改为@）
 （不经常看邮箱）
 
-本页面最后修改于2020年11月14日
+本页面最后修改于2022年8月14日
